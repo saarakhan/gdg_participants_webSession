@@ -8,4 +8,5 @@
 | Shivam Rathod  | https://thriving-arithmetic-c6e7fa.netlify.app/  |
 | Shatakshi Tiwari  | https://gregarious-syrniki-cd13c4.netlify.app/ |
 | Sumedha Mandloi | https://sumedhamandloi-portfolio-4dc453.netlify.app/ |
+| Arpan Patra | https://github.com/ARPANPATRA111/GDG_potfolio2025/deployments/github-pages |
 
